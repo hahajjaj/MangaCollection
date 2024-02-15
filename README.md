@@ -30,10 +30,10 @@ Voici quelques captures d'écran montrant l'interface utilisateur et les fonctio
 </p>
 
 ## Comment Utiliser
-## Prérequis
+### Prérequis
 * macOS avec Xcode installé.
 * Un compte Firebase pour configurer la base de données.
-## Installation
+### Installation
 * Clonez le dépôt GitHub sur votre machine locale.
 * Ouvrez le fichier .xcodeproj avec Xcode.
 * Configurez votre projet Firebase et ajoutez le fichier GoogleService-Info.plist à votre projet.
