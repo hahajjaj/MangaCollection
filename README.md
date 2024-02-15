@@ -1,24 +1,26 @@
 # MangaCollection
 
-MangaCollection est un projet développé en SwiftUI et Swift, destiné aux passionnés de manga souhaitant organiser et suivre leur collection de manière intuitive et efficace. Avec Firebase pour la gestion de base de données et l'intégration d'une API externe pour les données relatives aux mangas, l'application offre une solution complète pour la gestion de collection de manga sur les appareils iOS.
+MangaCollection is a project developed in SwiftUI and Swift, aimed at manga enthusiasts who wish to organize and track their collection in an intuitive and effective manner. With Firebase for database management and the integration of an external API for manga-related data, the application offers a complete solution for managing manga collections on iOS devices.
 
-## Fonctionnalités Principales
+## Main Features
 
-* Gestion de Collection : Permet aux utilisateurs de suivre les mangas qu'ils possèdent et ceux qu'ils souhaitent obtenir.
-* Recherche de Mangas : Utilise une API externe pour rechercher des informations détaillées sur les mangas, facilitant l'ajout à la collection de l'utilisateur.
-* Authentification Variée : Offre la possibilité de s'inscrire ou de se connecter via Apple, Google, ou email et mot de passe, assurant un accès sécurisé.
-* Synchronisation Cloud : Les données de l'utilisateur sont stockées et synchronisées en temps réel avec Firebase, permettant un accès depuis n'importe quel appareil.
+
+* Collection Management: Allows users to keep track of the mangas they own and those they wish to acquire.
+* Manga Search: Utilizes an external API to search for detailed information about mangas, making it easier to add to the user's collection.
+* Varied Authentication: Offers the possibility to sign up or log in via Apple, Google, or email and password, ensuring secure access.
+* Cloud Synchronization: User data is stored and synchronized in real-time with Firebase, allowing access from any device.
+
 
 ## Technologies
 
-* SwiftUI : Utilisé pour créer une interface utilisateur moderne et réactive.
-* Swift : Langage de programmation pour le développement de l'application.
-* Firebase : Base de données en temps réel pour la gestion des données utilisateur.
-* API Externe : Pour récupérer les informations et les métadonnées sur les mangas.
+* SwiftUI: Used to create a modern and responsive user interface.
+* Swift: Programming language for the development of the application.
+* Firebase: Real-time database for managing user data.
+* External API: For retrieving information and metadata on mangas.
 
-## Aperçu de l'Application
+## Application Preview
 
-Voici quelques captures d'écran montrant l'interface utilisateur et les fonctionnalités clés de MangaCollection. Chaque image vous donne un aperçu de l'expérience utilisateur fluide et intuitive que j'ai conçue.
+Here are some screenshots showing the user interface and key features of MangaCollection. Each image gives you a glimpse into the smooth and intuitive user experience that I have designed.
 
 <p align="center">
   <img src="https://github.com/hahajjaj/MangaCollection/blob/main/images/IMG_3395-portrait.png" alt="HomeScreen" width="250" height="auto">
@@ -29,19 +31,25 @@ Voici quelques captures d'écran montrant l'interface utilisateur et les fonctio
   <img src="https://github.com/hahajjaj/MangaCollection/blob/main/images/IMG_3401-portrait.png" alt="Manga Screen" width="250" height="auto">
 </p>
 
-## Comment Utiliser
-### Prérequis
-* macOS avec Xcode installé.
-* Un compte Firebase pour configurer la base de données.
+## How to Use
+
+### Prerequisites
+
+* macOS with Xcode installed.
+* A Firebase account to set up the database.
+* 
 ### Installation
-* Clonez le dépôt GitHub sur votre machine locale.
-* Ouvrez le fichier .xcodeproj avec Xcode.
-* Configurez votre projet Firebase et ajoutez le fichier GoogleService-Info.plist à votre projet.
-* Installez toutes les dépendances nécessaires via Cocoapods ou Swift Package Manager.
-* Exécutez l'application sur un simulateur ou un appareil réel.
 
-## API de Manga
-* L'application utilise une API pour récupérer les données sur les mangas.
+* Clone the GitHub repository to your local machine.
+* Open the .xcodeproj file with Xcode.
+* Configure your Firebase project and add the GoogleService-Info.plist file to your project.
+* Install all necessary dependencies via Cocoapods or Swift Package Manager.
+* Run the application on a simulator or real device.
 
-## Précision
-Il est important de souligner que le développement de l'application est encore en cours. Les composantes essentielles telles que la librairie, la base de données, l'API, les fonctionnalités de recherche et d'authentification sont en place et fonctionnent de manière satisfaisante. Toutefois, il reste quelques ajustements à effectuer et des fonctionnalités supplémentaires à intégrer pour compléter le projet.
+## Manga API
+
+* The application uses an API to retrieve data on mangas.
+
+## Note
+
+It's important to emphasize that the development of the application is still in progress. The essential components such as the library, database, API, search features, and authentication are in place and function satisfactorily. However, some adjustments are still needed, and additional features need to be integrated to complete the project.
