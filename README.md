@@ -22,8 +22,11 @@ Voici quelques captures d'écran montrant l'interface utilisateur et les fonctio
 
 <p align="center">
   <img src="https://github.com/hahajjaj/MangaCollection/blob/main/images/IMG_3395-portrait.png" alt="HomeScreen" width="200" height="auto">
-  <img src="https://github.com/hahajjaj/MangaCollection/blob/main/images/IMG_3397-portrait.png" alt="SignUp Screen" width="200" height="auto">
+  <img src="https://github.com/hahajjaj/MangaCollection/blob/main/images/IMG_3397-portrait.png" alt="SignIn Screen" width="200" height="auto">
   <img src="https://github.com/hahajjaj/MangaCollection/blob/main/images/IMG_3398-portrait.png" alt="SignUp Screen" width="200" height="auto">
+  <img src="https://github.com/hahajjaj/MangaCollection/blob/main/images/IMG_3399-portrait.png" alt="Library Screen" width="200" height="auto">
+  <img src="https://github.com/hahajjaj/MangaCollection/blob/main/images/IMG_3400-portrait.png" alt="Search Screen" width="200" height="auto">
+  <img src="https://github.com/hahajjaj/MangaCollection/blob/main/images/IMG_3401-portrait.png" alt="Manga Screen" width="200" height="auto">
 </p>
 
 Comment Utiliser
