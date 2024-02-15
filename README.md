@@ -37,7 +37,7 @@ Here are some screenshots showing the user interface and key features of MangaCo
 
 * macOS with Xcode installed.
 * A Firebase account to set up the database.
-* 
+  
 ### Installation
 
 * Clone the GitHub repository to your local machine.
