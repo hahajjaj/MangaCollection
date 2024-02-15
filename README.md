@@ -42,3 +42,6 @@ Voici quelques captures d'écran montrant l'interface utilisateur et les fonctio
 
 ## API de Manga
 * L'application utilise une API pour récupérer les données sur les mangas.
+
+## Précision
+Il est important de souligner que le développement de l'application est encore en cours. Les composantes essentielles telles que la librairie, la base de données, l'API, les fonctionnalités de recherche et d'authentification sont en place et fonctionnent de manière satisfaisante. Toutefois, il reste quelques ajustements à effectuer et des fonctionnalités supplémentaires à intégrer pour compléter le projet.
