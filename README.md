@@ -29,15 +29,17 @@ Voici quelques captures d'écran montrant l'interface utilisateur et les fonctio
   <img src="https://github.com/hahajjaj/MangaCollection/blob/main/images/IMG_3401-portrait.png" alt="Manga Screen" width="250" height="auto">
 </p>
 
-Comment Utiliser
-Prérequis
-macOS avec Xcode installé.
-Un compte Firebase pour configurer la base de données.
-Installation
-Clonez le dépôt GitHub sur votre machine locale.
-Ouvrez le fichier .xcodeproj avec Xcode.
-Configurez votre projet Firebase et ajoutez le fichier GoogleService-Info.plist à votre projet.
-Installez toutes les dépendances nécessaires via Cocoapods ou Swift Package Manager.
-Exécutez l'application sur un simulateur ou un appareil réel.
-API de Manga
-L'application utilise une API pour récupérer les données sur les mangas.
+## Comment Utiliser
+### Prérequis
+* macOS avec Xcode installé.
+* Un compte Firebase pour configurer la base de données.
+* 
+###Installation
+* Clonez le dépôt GitHub sur votre machine locale.
+* Ouvrez le fichier .xcodeproj avec Xcode.
+* Configurez votre projet Firebase et ajoutez le fichier GoogleService-Info.plist à votre projet.
+* Installez toutes les dépendances nécessaires via Cocoapods ou Swift Package Manager.
+* Exécutez l'application sur un simulateur ou un appareil réel.
+
+## API de Manga
+* L'application utilise une API pour récupérer les données sur les mangas.
