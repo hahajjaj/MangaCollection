@@ -1,4 +1,4 @@
-MangaCollection
+[MangaCollection]
 MangaCollection est un projet développé en SwiftUI et Swift, destiné aux passionnés de manga souhaitant organiser et suivre leur collection de manière intuitive et efficace. Avec Firebase pour la gestion de base de données et l'intégration d'une API externe pour les données relatives aux mangas, l'application offre une solution complète pour la gestion de collection de manga sur les appareils iOS.
 
 🌟 Fonctionnalités Principales
